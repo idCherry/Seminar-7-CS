@@ -31,5 +31,5 @@ void PrintArray(int[,] array)
     }
 }
 
-int[,] arr = GetArray(3, 5);
+int[,] arr = GetArray(3, 4);
 PrintArray(arr);
